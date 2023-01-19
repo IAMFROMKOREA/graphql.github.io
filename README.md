@@ -1,1 +1,1 @@
-# graphql.github.io
+# stepgraphql.github.io
