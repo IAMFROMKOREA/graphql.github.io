@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.dfb7e52f.css",
-    "main.js": "/static/js/main.2126d3f7.js",
-    "static/media/loading.gif": "/static/media/loading.2f22faef4193d04c7e3e.gif",
+    "main.css": "/static/css/main.e1e8c438.css",
+    "main.js": "/static/js/main.eb1cd8b8.js",
+    "static/media/save.svg": "/static/media/save.dfe7b758edee51b6d4c7.svg",
+    "static/media/search.svg": "/static/media/search.c2b7f1c176f961f4ad01.svg",
+    "static/media/checked.svg": "/static/media/checked.b752a36dae8a101e1586.svg",
+    "static/media/check.svg": "/static/media/check.a887200ca6eeedc4c862.svg",
+    "static/media/refresh-static.svg": "/static/media/refresh-static.7631b575b4b935143c9d.svg",
+    "static/media/refresh-dyn.svg": "/static/media/refresh-dyn.8cc0bad4c0d63a88b8a4.svg",
     "index.html": "/index.html",
-    "main.dfb7e52f.css.map": "/static/css/main.dfb7e52f.css.map",
-    "main.2126d3f7.js.map": "/static/js/main.2126d3f7.js.map"
+    "static/media/sub-arrow.svg": "/static/media/sub-arrow.94a981281f77df348e98.svg",
+    "static/media/step_logo.svg": "/static/media/step_logo.e314700466f9fef07238.svg",
+    "static/media/search-outline.svg": "/static/media/search-outline.5f42ad213ffaa997a2f1.svg",
+    "main.e1e8c438.css.map": "/static/css/main.e1e8c438.css.map",
+    "main.eb1cd8b8.js.map": "/static/js/main.eb1cd8b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfb7e52f.css",
-    "static/js/main.2126d3f7.js"
+    "static/css/main.e1e8c438.css",
+    "static/js/main.eb1cd8b8.js"
   ]
 }
