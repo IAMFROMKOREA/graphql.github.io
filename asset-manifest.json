@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.75c911de.css",
-    "main.js": "/static/js/main.894a1530.js",
+    "main.css": "/static/css/main.2e543e59.css",
+    "main.js": "/static/js/main.1bdb7179.js",
+    "static/media/calendar.svg": "/static/media/calendar.6ab1b859406f0e573abc.svg",
     "static/media/save.svg": "/static/media/save.dfe7b758edee51b6d4c7.svg",
     "static/media/search.svg": "/static/media/search.c2b7f1c176f961f4ad01.svg",
     "static/media/checked.svg": "/static/media/checked.b752a36dae8a101e1586.svg",
@@ -11,12 +12,13 @@
     "index.html": "/index.html",
     "static/media/sub-arrow.svg": "/static/media/sub-arrow.94a981281f77df348e98.svg",
     "static/media/step_logo.svg": "/static/media/step_logo.e314700466f9fef07238.svg",
+    "static/media/step_logo_shadow.svg": "/static/media/step_logo_shadow.6ea2523728c8cf019332.svg",
     "static/media/search-outline.svg": "/static/media/search-outline.783dc5ed880f5c30350a.svg",
-    "main.75c911de.css.map": "/static/css/main.75c911de.css.map",
-    "main.894a1530.js.map": "/static/js/main.894a1530.js.map"
+    "main.2e543e59.css.map": "/static/css/main.2e543e59.css.map",
+    "main.1bdb7179.js.map": "/static/js/main.1bdb7179.js.map"
   },
   "entrypoints": [
-    "static/css/main.75c911de.css",
-    "static/js/main.894a1530.js"
+    "static/css/main.2e543e59.css",
+    "static/js/main.1bdb7179.js"
   ]
 }
